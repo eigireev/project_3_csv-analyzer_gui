@@ -1,2 +1,2 @@
-# csv_analyzer_gui
-csv-analyzer_gui
+# project_2_csv-analyzer
+csv-analyzer
